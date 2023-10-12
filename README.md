@@ -13,11 +13,11 @@
 플러피 버드와 다른점
 초전도체 하면 자기장!<br>
 번개를 쏘는 기능 추가 <br>
-일정 확률로 벽이 막혀 있어 번개 공격으로 벽을 부신다.
-![캡처2](https://github.com/plumas90/Fly-Superconductor/assets/129154514/3aa1020a-0dc7-4f2d-8179-bc8249385f48)
+일정 확률로 벽이 막혀 있어 번개 공격으로 벽을 부신다.<br>
+<img src="https://github.com/plumas90/Fly-Superconductor/assets/129154514/aeb1eeaa-5581-4f7e-8806-973ce20cf2c8">
 <br>
 <br>
-ps 초전도체 붐은 세계를 휩쓸거라 예상 되어 언어 영어가 추가됨
-![캡처](https://github.com/plumas90/Fly-Superconductor/assets/129154514/5d272054-43c0-4748-b2e0-4b85a1e83323)
+ps 초전도체 붐은 세계를 휩쓸거라 예상 되어 언어 영어가 추가됨<br>
+<img src="https://github.com/plumas90/Fly-Superconductor/assets/129154514/ff4950e3-dec4-4106-8e24-06b149fe7d91">
 
 
